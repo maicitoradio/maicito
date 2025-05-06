@@ -5,7 +5,7 @@ body {
   /* display: flex; */
   justify-content: center;
   align-items: center;
-  background-color:#5e2760;
+  background-color:#dfffba;
   background: url("img/bg.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -14,4 +14,4 @@ body {
 }
 
 
-background-color: #dfffba; !important;
+background-color: #dfffba !important;
