@@ -3,7 +3,7 @@
   "short_name": "RADIO MAICITO",
   "description": "la mejor musica variada 24/7",
   "background_color": "#d8fda7",
-  "theme_color": "#b7a6e180",
+  "theme_color": "#d8fda7",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
